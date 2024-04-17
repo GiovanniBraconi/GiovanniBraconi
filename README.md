@@ -7,5 +7,5 @@ I am a software engineer with 5 years of programming experience. I excel in C# a
 
 <p align="center">
   <a href="giov.braconi@gmail.com"><img src="https://img.icons8.com/nolan/64/email.png"/></a>
-  <a href="[www.linkedin.com/in/giovanni-braconi](https://www.linkedin.com/in/giovanni-braconi/?trk=opento_sprofile_topcard)"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
+  <a href="https://www.linkedin.com/in/giovanni-braconi/?trk=opento_sprofile_topcard"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
 </p>
