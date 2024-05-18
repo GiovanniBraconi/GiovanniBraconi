@@ -1,4 +1,18 @@
-<p align="center">
-  <a href="mailto:giov.braconi@gmail.com"><img src="https://img.icons8.com/nolan/64/email.png"/></a>
-  <a href="https://www.linkedin.com/in/giovanni-braconi/?trk=opento_sprofile_topcard"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
-</p>
+# Hi everyone 👋
+
+My name is **Giovanni (he/him)** and i'm a **.NET Software Engineer**!
+
+- 🕵️‍♂️ Currently working on: [Crime Investigation Technologies](https://www.mbsengineering.it/language/en/home/)
+- 💙 Favorite language: C#
+- 👾 Favorite hobby: Gaming!
+
+## Projects 🐧
+
+Here are the projects i'm contributing to ❤️:
+* [aspnetcore](https://github.com/dotnet/aspnetcore) a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
+
+## Contact 📬
+
+How to reach me: 
+* [Giovanni Braconi on LinkedIn](https://www.linkedin.com/in/giovanni-braconi/)
+* [giov.braconi@gmail.com](mailto:giov.braconi@gmail.com)
