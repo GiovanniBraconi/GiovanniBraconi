@@ -1,6 +1,10 @@
-## Hi, my name's Giovanni!
+## EDUCATION
 
-I am a software engineer with 5 years of programming experience. I excel in C# and know Javascript/Typescript, C and Java at an intermediate level. Helped by the Scrum methodology and SCM tools i develop my projects daily inside the JetBrains IDEs. In addition to my experience, i hold a Bachelor’s degree in Computer Science.
+**University of Pisa** - _Pisa, Tuscany_
+
+Bachelor's Degree,  Computer Science - October 2023
+
+- software engineering; artificial intelligence; computer graphics; computer networks; databases
 
 
 <h3 align="center">-- My Links --</h3>
