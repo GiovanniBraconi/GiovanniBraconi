@@ -1,11 +1,4 @@
-## EDUCATION
-
-**University of Pisa** - _Pisa, Tuscany_
-
-Bachelor's Degree,  Computer Science - October 2023
-
-- software engineering; artificial intelligence; computer graphics; computer networks; databases
-
+![Model](https://github.com/GiovanniBraconi/CV/blob/SimpleFormat/out/cv.png)
 
 <h3 align="center">-- My Links --</h3>
 
