@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-My name is **Giovanni (he/him)** and i'm an **Angular | .NET Software Engineer**!
+My name is **Giovanni (he/him)** and i'm an **Angular | .NET Full Stack Engineer**!
 
 - 🕵️‍♂️ Currently working on: [Crime Investigation Technologies](https://www.mbsengineering.it/language/en/home/)
 - 💙 Favorite language: C#
