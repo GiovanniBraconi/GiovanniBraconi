@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-My name is **Joe (he/him)** and I'm a **Full Stack Engineer @ MBS Engineering**!
+My name is **Giovanni (he/him)** and I'm a **Full Stack Engineer @ MBS Engineering**!
 
 - 🕵️‍♂️ Currently working on [Crime Investigation Technologies](https://www.mbsengineering.it/language/en/home/)
 - 💙 Favorite language: Typescript
