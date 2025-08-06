@@ -15,5 +15,5 @@ Here are the projects I'm contributing to ❤️:
 ## Contact 📬
 
 How to reach me: 
-* [Giovanni Braconi on LinkedIn](https://www.linkedin.com/in/joebraconi/)
+* [Giovanni Braconi on LinkedIn](https://www.linkedin.com/in/giovannibraconi/)
 * [giov.braconi@gmail.com](mailto:giov.braconi@gmail.com)
